@@ -1,8 +1,8 @@
-# hyper-material
+# hyper-jane
 
-Material theme for [Hyper.app](https://hyper.is).
+Jane theme for [Hyper.app](https://hyper.is).
 
-<img width="640" alt="hyper-material" src="https://cloud.githubusercontent.com/assets/1333916/21234676/7741185e-c2a8-11e6-87da-8bc9e1293764.png">
+<img width="640" alt="hyper-jane" src="https://user-images.githubusercontent.com/1333916/30661899-30dba518-9dfa-11e7-9d8c-6d783e861063.png">
 
 ## Install
 
@@ -17,12 +17,7 @@ plugins: [
   //   `@company/project`
   //   `project#1.0.1`
   plugins: [
-    'hyper-material'
+    'hyper-jane'
   ]
 ]
 ```
-
-
-## Credits
-
-[Official Hyper port of the Material Theme](https://github.com/equinusocio/hyper-material-theme)
